@@ -29,5 +29,5 @@ Economist (MSc) and Data Scientist focused on building data-driven and AI-powere
 
 ## Contact
 
-- LinkedIn
-- Email
+- LinkedIn: https://www.linkedin.com/in/veronica-bazterrica
+- - Email: vbazterrica347@gmail.com
