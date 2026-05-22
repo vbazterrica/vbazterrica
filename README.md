@@ -1,16 +1,33 @@
 ## Hi there 👋
+# Hi, I'm Verónica 👋
 
-<!--
-**vbazterrica/vbazterrica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Economist (MSc) and Data Scientist focused on building data-driven and AI-powered applications with Python.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- R
+- Streamlit
+- Gradio
+- Machine Learning
+- Data Visualization
+- Economic & Financial Analysis
+
+## What I build
+
+- Interactive dashboards
+- AI applications
+- Predictive models
+- Economic analytics tools
+- Automated reporting systems
+
+## Featured Projects
+
+📊 Economic Dashboard  
+🤖 Financial AI Assistant  
+📈 Forecasting Models
+
+## Contact
+
+- LinkedIn
+- Email
